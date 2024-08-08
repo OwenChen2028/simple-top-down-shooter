@@ -1,5 +1,5 @@
-# Simple Top Down Shooter
+Please build using Unity version 2019.4.34f1 (LTS)
 
-**Simple Top Down Shooter** was my one of my first game development projects. As a result, the code is a bit messy and contains several bad practices. However, the gameplay and non-UI visuals are relatively polished and I am quite proud of how it turned out. 
+Most code written for the project is located in "Assets/Scripts/" and available for you to use freely (see license). 
 
 The project is available to play at: https://ilikeovensalot.itch.io/simple-top-down-shooter
